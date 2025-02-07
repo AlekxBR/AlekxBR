@@ -7,4 +7,6 @@
 - ⚡ Fun fact: ...
 -
 ## DISCORD
+alekxbr
+
  ![Discord](https://img.shields.io/badge/discord-3670A0?style=for-the-badge&logo=discord&logoColor=%23FFFFFF)             
