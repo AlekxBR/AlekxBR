@@ -5,8 +5,8 @@
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: Discord --> alekxbr
 - ⚡ Fun fact: ...
--
-## DISCORD
+
+## DISCORD 🐱‍👤
 alekxbr
 
  ![Discord](https://img.shields.io/badge/discord-3670A0?style=for-the-badge&logo=discord&logoColor=%23FFFFFF)             
