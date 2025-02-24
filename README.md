@@ -1,9 +1,8 @@
-## Hi there 👋
-
+- 👋 Hi, I’m Alekx
+- 👀 I’m interested in Gaming
 - 🌱 I’m currently learning py.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 📫 How to reach me: Discord --> alekxbr
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
 ## DISCORD 🐱‍👤
